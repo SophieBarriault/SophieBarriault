@@ -45,20 +45,35 @@ Here are some ideas to get you started:
 - I'm currently a high school student who's working towards becoming an engineer! 
 
 - For my future career, I'm specifically interested in engineering with applications in the medical field. In the future, I'd like to work with:
-  + Prosthetics
-  + Robotics inspired by nature
-  + AI applications 
+  + Prosthetics 🦾 
+  + Robotics inspired by nature 🌿
+  + AI applications 🤖 
  
-- Some of my interests include programming, hardware design and contruction, patenting/inventing, and STEM outreach!
+- 🧠 Some of my interests include:
+ + Programming 💻
+ + Hardware design and construction 🔧
+ + Patenting/inventing 💡
+ + STEM outreach 🔬 
 
-- My hobbies include:
- + Gardening
- + Baking/cooking
- + Art
- + Swimming
- + Reading 
+- 🧩 My other hobbies include:
+ + Gardening 🌱
+ + Baking/cooking 🍳 
+ + Art 🎨 
+ + Swimming 🏊 
+ + Reading 📖 
 
+- 🔭 I’m currently working on projects related to:
++ AI 
++ Computational Biology 🧬 
++ Medical Devices 🩺 
++ STEM Outreach 🧪 
++ And more! ➕ 
 
+- ⚡ Fun fact:
++ I know how to drive a car, snowmobile, and have even helped take off a small jet! ✈️ 
+
+- 📫 How to reach me:
++ 
 
      				<b>Links to important : <b>
 				<ul>
