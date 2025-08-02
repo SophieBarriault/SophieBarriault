@@ -13,7 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+
+
+
+<!-- Header with GIF background and typing SVG -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=CFCFF7D5&background=FFFFFF00&width=700&lines=Hey+there%2C+I'm+Sophie+Barriault!+;Welcome+to+my+profile!+;Here's+where+I+store+all+the+projects+I've+worked+on+over+the+years!+;I+always+strive+to+bring+my+project+ideas+to+life%2C+no+matter+how+big+or+small!;I+always+love+learning+new+skills+when+working+on+projects%2C+and+I+hope+that's+reflected+in+my+work!+" alt="Typing SVG">
+  </a>
+</p> 
+
+
+
 
 <table>
 	<tr>
