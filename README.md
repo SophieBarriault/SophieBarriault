@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 	<tr>
 		<td>
 				<!-- FAQ -->
-## :grey_question: A little about me: 
+❓ A little about me: 
 
 - I'm currently a high school student who's working towards becoming an engineer! 
 
