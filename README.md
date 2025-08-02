@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Header with GIF background and typing SVG -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="100%" />
+  <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.pinimg.com/originals/ec/b9/c2/ecb9c2d3d68104257d36ef064f2cc1bc.gif)" width="100%" />
 </p>
 
 <p align="center">
