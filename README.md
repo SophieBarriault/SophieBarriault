@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 				<!-- FAQ -->
 ❓ A little about me: 
 
-- I'm currently a high school student who's working towards becoming an engineer! 
+- I'm currently a high school student who's working towards becoming an engineer! 🪛 
 
-- For my future career, I'm specifically interested in engineering with applications in the medical field. In the future, I'd like to work with:
+- For my future career, I'm specifically interested in engineering with applications in the medical field 💉 
+- In the future, I'd like to work with:
   + Prosthetics 🦾 
   + Robotics inspired by nature 🌿
   + AI applications 🤖 
