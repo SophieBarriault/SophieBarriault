@@ -74,14 +74,7 @@ Here are some ideas to get you started:
 + I know how to drive a car, snowmobile, and have even helped take off a small jet! ✈️ 
 
 - 📫 How to reach me:
-+ 
-
-     				<b>Links to important : <b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li> 
-					<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=CFCFF7D5&background=FFFFFF00&width=435&lines=Hey+there%2C+I'm+CrystalArtz!+;Welcome+to+my+profile+" alt="Typing SVG" /></a>  
++ [My LinkedIn](https://github.com/Raymo111/i3lock-color/issues/136) 
      
 			
 				</ul>
