@@ -75,10 +75,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 + [My LinkedIn](https://github.com/Raymo111/i3lock-color/issues/136) 
-     
-			
-				</ul>
-		</td>
-	</tr>
-</table>
- 
