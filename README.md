@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 + I know how to drive a car, snowmobile, and have even helped take off a small jet! ✈️ 
 
 - 📫 How to reach me:
-+ [https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg](https://github.com/Raymo111/i3lock-color/issues/136) 
++ [MyLinkedIn](https://github.com/Raymo111/i3lock-color/issues/136) 
